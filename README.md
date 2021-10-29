@@ -4,4 +4,8 @@ A demonstration of Bezier curves which I built after watching [The Beauty of Bé
 
 The code uses Pygame so `pip install pygame` or `pip install -r requirements.txt` if it's not already installed.
 
-![bezier curves](bezier-curves.png)
+![a Bezier curve](bezier-curves.png)
+
+![another Bezier curve](bezier-curves-2.png)
+
+![yet another Bezier curve](bezier-curves-3.png)
