@@ -1,4 +1,4 @@
-# bezier-curves
+# Bezier curves in motion
 
 A demonstration of Bezier curves which I built after watching [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw) by [Freya Holmér](https://twitter.com/FreyaHolmer).
 
